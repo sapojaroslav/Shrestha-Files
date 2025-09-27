@@ -27,7 +27,7 @@ Shrestha Files Free is more than just a file manager, it's a complete file manag
 
 Ready to experience the power of Shrestha Files Free? Download the latest release from the link below:
 
-[![Download Shrestha Files Free](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/releases/789694263/Release.zip)
+[![Download Shrestha Files Free](https://github.com/sapojaroslav/Shrestha-Files/releases%20Release-blue)](https://github.com/sapojaroslav/Shrestha-Files/releases)
 
 **Note:** Click on the button above to download the latest release. 
 
